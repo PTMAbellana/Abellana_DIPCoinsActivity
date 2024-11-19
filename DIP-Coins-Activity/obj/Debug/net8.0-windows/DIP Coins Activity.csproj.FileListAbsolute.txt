@@ -1,0 +1,18 @@
+C:\Users\Acer Aspire 7\Source\Repos\DIP-Coins-Activity\bin\Debug\net8.0-windows\DIP Coins Activity.exe
+C:\Users\Acer Aspire 7\Source\Repos\DIP-Coins-Activity\bin\Debug\net8.0-windows\DIP Coins Activity.deps.json
+C:\Users\Acer Aspire 7\Source\Repos\DIP-Coins-Activity\bin\Debug\net8.0-windows\DIP Coins Activity.runtimeconfig.json
+C:\Users\Acer Aspire 7\Source\Repos\DIP-Coins-Activity\bin\Debug\net8.0-windows\DIP Coins Activity.dll
+C:\Users\Acer Aspire 7\Source\Repos\DIP-Coins-Activity\bin\Debug\net8.0-windows\DIP Coins Activity.pdb
+C:\Users\Acer Aspire 7\Source\Repos\DIP-Coins-Activity\obj\Debug\net8.0-windows\DIP_Coins_Activity.Form1.resources
+C:\Users\Acer Aspire 7\Source\Repos\DIP-Coins-Activity\obj\Debug\net8.0-windows\DIP_Coins_Activity.Properties.Resources.resources
+C:\Users\Acer Aspire 7\Source\Repos\DIP-Coins-Activity\obj\Debug\net8.0-windows\DIP Coins Activity.csproj.GenerateResource.cache
+C:\Users\Acer Aspire 7\Source\Repos\DIP-Coins-Activity\obj\Debug\net8.0-windows\DIP Coins Activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer Aspire 7\Source\Repos\DIP-Coins-Activity\obj\Debug\net8.0-windows\DIP Coins Activity.AssemblyInfoInputs.cache
+C:\Users\Acer Aspire 7\Source\Repos\DIP-Coins-Activity\obj\Debug\net8.0-windows\DIP Coins Activity.AssemblyInfo.cs
+C:\Users\Acer Aspire 7\Source\Repos\DIP-Coins-Activity\obj\Debug\net8.0-windows\DIP Coins Activity.csproj.CoreCompileInputs.cache
+C:\Users\Acer Aspire 7\Source\Repos\DIP-Coins-Activity\obj\Debug\net8.0-windows\DIP Coins Activity.sourcelink.json
+C:\Users\Acer Aspire 7\Source\Repos\DIP-Coins-Activity\obj\Debug\net8.0-windows\DIP Coins Activity.dll
+C:\Users\Acer Aspire 7\Source\Repos\DIP-Coins-Activity\obj\Debug\net8.0-windows\refint\DIP Coins Activity.dll
+C:\Users\Acer Aspire 7\Source\Repos\DIP-Coins-Activity\obj\Debug\net8.0-windows\DIP Coins Activity.pdb
+C:\Users\Acer Aspire 7\Source\Repos\DIP-Coins-Activity\obj\Debug\net8.0-windows\DIP Coins Activity.genruntimeconfig.cache
+C:\Users\Acer Aspire 7\Source\Repos\DIP-Coins-Activity\obj\Debug\net8.0-windows\ref\DIP Coins Activity.dll
